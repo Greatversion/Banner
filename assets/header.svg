@@ -1,0 +1,43 @@
+<svg width="1200" height="330" viewBox="0 0 1200 330" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#020617"/>
+    <stop offset="0.55" stop-color="#07152A"/>
+    <stop offset="1" stop-color="#020617"/>
+  </linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#38BDF8"/>
+    <stop offset="1" stop-color="#0993D9"/>
+  </linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#1E3A5F" stroke-width="1" opacity=".28"/>
+  </pattern>
+</defs>
+
+<rect width="1200" height="330" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="330" rx="20" fill="url(#grid)"/>
+
+<circle cx="1040" cy="165" r="150" fill="none" stroke="#0993D9" stroke-opacity=".16"/>
+<circle cx="1040" cy="165" r="112" fill="none" stroke="#38BDF8" stroke-opacity=".13"/>
+<path d="M900 165H1180M1040 25V305" stroke="#38BDF8" stroke-opacity=".12"/>
+<path d="M940 72L1140 258M1140 72L940 258" stroke="#0993D9" stroke-opacity=".10"/>
+
+<g transform="translate(68 78)">
+  <path d="M0 76L43 0L86 76H62L43 40L24 76Z" fill="url(#blue)"/>
+  <path d="M45 76L88 0L130 76H105L88 42L69 76Z" fill="#E5F6FF" opacity=".95"/>
+</g>
+
+<text x="225" y="105" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">ADITYA VERMA</text>
+<text x="228" y="148" fill="#38BDF8" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">FLUTTER DEVELOPER • PRODUCT BUILDER • FOUNDER</text>
+<text x="228" y="185" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="18">Building practical mobile products with Flutter, Dart & scalable backends.</text>
+
+<rect x="228" y="215" width="260" height="42" rx="21" fill="#0993D9" fill-opacity=".13" stroke="#0993D9" stroke-opacity=".65"/>
+<text x="253" y="242" fill="#E0F2FE" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600">BUSINESSES → MOBILE</text>
+
+<text x="228" y="294" fill="#64748B" font-family="monospace" font-size="14">&lt; Code. Build. Improve. Repeat. /&gt;</text>
+
+<text x="1010" y="118" text-anchor="middle" fill="#38BDF8" font-family="monospace" font-size="14" opacity=".75">FLUTTER</text>
+<text x="1010" y="145" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="13">DART • RIVERPOD</text>
+<text x="1010" y="171" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="13">SUPABASE • FIREBASE</text>
+<text x="1010" y="197" text-anchor="middle" fill="#CBD5E1" font-family="monospace" font-size="13">API • OFFLINE • CI/CD</text>
+</svg>
