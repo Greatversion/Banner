@@ -43,7 +43,7 @@ My main focus is building systems that are **clean, maintainable, secure and pra
 | 🛠️ Area | What I work on |
 |---|---|
 | 📱 **Flutter** | Android & iOS applications, responsive UI, animations |
-| 🧠 **Architecture** | Riverpod, MVVM, Clean Architecture, repositories |
+| 🧠 **Architecture** | State Management, MVVM, Clean Architecture, repositories |
 | ☁️ **Backend** | Supabase, PostgreSQL, Firebase, APIs |
 | 💾 **Data** | Caching, offline-first flows, synchronization |
 | 💳 **Payments** | Payment flows, server-side verification, settlements |
