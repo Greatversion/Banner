@@ -17,7 +17,7 @@
   <a href="https://fixitbhaii-solutions.vercel.app/">
     <img src="https://img.shields.io/badge/FixitBhaii%20Solutions-Businesses%20%E2%86%92%20Mobile-0993D9?style=flat-square" />
   </a>
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-111827?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Mobile%20Engineering-111827?style=flat-square" />
 </p>
 
