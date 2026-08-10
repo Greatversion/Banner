@@ -27,28 +27,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Flutter developer and product builder** focused on turning ideas and business workflows into production-ready mobile applications.
-
-I work across the full product journey:
-
-```text
-💡 Idea
-  ↓
-🎨 UI / UX
-  ↓
-📱 Flutter Application
-  ↓
-🧠 Architecture & State
-  ↓
-☁️ Backend & Database
-  ↓
-🔐 Auth / Payments / Notifications
-  ↓
-🚀 Deployment
-  ↓
-📈 Production
-```
-
+I'm a **Flutter developer and product builder** with 4+ years of Mobile App Development experience focused on turning ideas and business workflows into production-ready mobile applications.
 My main focus is building systems that are **clean, maintainable, secure and practical** — not just applications that look good in a demo.
 
 ---
