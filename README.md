@@ -234,7 +234,7 @@ The goal is to make WebView-based application wrappers more reusable instead of 
 
 `Flutter` · `WebView` · `Navigation` · `Reusable Architecture`
 
-🔗 **pub.dev:** https://pub.dev/
+🔗 **pub.dev:** [https://pub.dev/packages/fixit_webview]
 
 ---
 
