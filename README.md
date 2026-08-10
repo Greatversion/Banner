@@ -2,9 +2,15 @@
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYZG76IrEOaAhOLte9OLB0SmMsig_eWLc2bhYjCnq9g&s=10" alt="Aditya Verma — Flutter Developer" width="15%"/>
 
-# 👋 Hey, I'm Aditya 
+<h1><span style="color:#F97316;">👋 Hey, I'm Aditya</span></h1>
 
-### 📱 Flutter Developer · 🧩 Product Builder · 🚀 Founder @ FixitBhaii Solutions
+<h3>
+<span style="color:#FBBF24;">📱 Flutter Developer</span>
+ ·
+<span style="color:#FB923C;">🧩 Product Builder</span>
+ ·
+<span style="color:#F97316;">🚀 Founder @ FixitBhaii Solutions</span>
+</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Flutter-Expertise-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
