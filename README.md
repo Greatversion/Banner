@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Aditya Verma — Flutter Developer" width="100%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYZG76IrEOaAhOLte9OLB0SmMsig_eWLc2bhYjCnq9g&s=10" alt="Aditya Verma — Flutter Developer" width="100%"/>
 
-# 👋 Hey, I'm Aditya Verma
+# 👋 Hey, I'm Aditya 
 
 ### 📱 Flutter Developer · 🧩 Product Builder · 🚀 Founder @ FixitBhaii Solutions
 
@@ -315,21 +315,6 @@ I want to build **better systems**.
 🚀 Product Engineering
 ```
 
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=0993D9&icon_color=0993D9" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=0993D9" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=transparent&ring=0993D9&fire=0993D9&currStreakLabel=0993D9" alt="GitHub streak" />
-</p>
-
----
-
 # 🤝 Let's Connect
 
 I'm always interested in:
@@ -342,13 +327,13 @@ I'm always interested in:
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Greatversion">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/aditya-verma-87a346240/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://fixitbhaii-solutions.vercel.app/">
+<a href="https://solutions.fixitbhaii.com/">
 <img src="https://img.shields.io/badge/FixitBhaii%20Solutions-0993D9?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
