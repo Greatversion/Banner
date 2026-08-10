@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYZG76IrEOaAhOLte9OLB0SmMsig_eWLc2bhYjCnq9g&s=10" alt="Aditya Verma — Flutter Developer" width="40%"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwYZG76IrEOaAhOLte9OLB0SmMsig_eWLc2bhYjCnq9g&s=10" alt="Aditya Verma — Flutter Developer" width="15%"/>
 
 # 👋 Hey, I'm Aditya 
 
