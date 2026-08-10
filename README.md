@@ -139,47 +139,6 @@ flowchart TD
 
 A multi-sided platform connecting customers, vendors and technicians.
 
-```mermaid
-flowchart LR
-    USER["👤 User App"]
-    VENDOR["🏪 Vendor App"]
-    TECH["🔧 Technician App"]
-    ADMIN["🛡️ Admin App"]
-
-    API["⚡ Backend"]
-    CATALOG["📚 Master Service Catalog"]
-    BOOKING["📅 Booking Engine"]
-    WALLET["💰 Wallet & Settlement"]
-    DB[("🗄️ PostgreSQL")]
-
-    USER --> API
-    VENDOR --> API
-    TECH --> API
-    ADMIN --> API
-
-    API --> CATALOG
-    API --> BOOKING
-    API --> WALLET
-
-    CATALOG --> DB
-    BOOKING --> DB
-    WALLET --> DB
-```
-
-### 📚 Master Service Catalog
-
-```text
-🏢 Division
-   └── 📂 Category
-        └── 📁 SubCategory
-             └── 🔧 Service
-```
-
-The catalog acts as the central source of truth across:
-
-`Vendor Onboarding` · `Technician Assignment` · `Discovery` · `Booking` · `Pricing` · `Add-ons` · `FAQs` · `Media`
-
----
 
 # 🛠️ Tech Stack
 
@@ -221,26 +180,6 @@ The goal is to make WebView-based application wrappers more reusable instead of 
 
 🔗 **pub.dev:** [https://pub.dev/packages/fixit_webview]
 
----
-
-# 💼 Selected Work
-
-## 🔵 FixitBhaii
-
-**Local Services Marketplace**
-
-A multi-app ecosystem designed around:
-
-👤 Customers  
-🏪 Vendors  
-🔧 Technicians  
-🛡️ Administrators
-
-### Core workflows
-
-`Service Discovery` → `Booking` → `Vendor Assignment` → `Technician Assignment` → `Service Completion` → `Payment` → `Settlement`
-
----
 
 ## 🌐 Website → Mobile Systems
 
